@@ -4,66 +4,52 @@ Um projeto web dedicado aos apaixonados por automóveis clássicos, reunindo mod
 
 ## 📖 Sobre o projeto
 
-O **Relíquia sobre Rodas** é um site desenvolvido para apresentar carros antigos e explorar um pouco da história do automóvel. O projeto busca combinar conteúdo informativo com uma interface estilizada, proporcionando uma experiência visual agradável para os visitantes.
-
-Desenvolvido como parte dos estudos de Desenvolvimento Web, o projeto permite aplicar conhecimentos de estruturação de páginas, estilização e organização de conteúdo.
+O **Relíquia sobre Rodas** apresenta carros antigos e explora um pouco da história do automóvel. O site combina conteúdo informativo, páginas individuais para diferentes modelos e imagens dos veículos.
 
 ## ✨ Funcionalidades
 
-- 🚘 Apresentação de carros antigos.
-- 🏁 Seção dedicada à história do automóvel.
-- 🖼️ Exibição de imagens dos veículos.
+- 🚘 Apresentação de carros clássicos.
+- 🏁 Conteúdo sobre a história do automóvel.
+- 🖼️ Imagens e páginas individuais para os modelos.
 - 🎨 Interface personalizada com CSS.
-- 🔤 Utilização de fontes personalizadas.
-- 📱 Organização visual do conteúdo para facilitar a navegação.
 
 ## 🛠️ Tecnologias utilizadas
 
 - **HTML5:** estrutura e organização do conteúdo.
-- **CSS3:** estilização, cores, fontes e layout.
-- **Google Fonts:** tipografia personalizada.
+- **CSS3:** estilos e layout.
 
 ## 📂 Estrutura do projeto
 
 ```text
 projeto_carros/
 ├── index.html
-├── css/
-│   └── style.css
+├── brasilia.html
+├── camaro.html
+├── fordescort.html
+├── fordmustang.html
+├── opala.html
+├── style.css
 ├── img/
-│   └── imagens dos veículos
 └── README.md
 ```
-
-*Observação: a estrutura acima é ilustrativa e deve ser ajustada para corresponder às pastas e aos arquivos reais do repositório.*
 
 ## 🚀 Como executar o projeto
 
 1. Clone o repositório:
-
    ```bash
    git clone https://github.com/yhaguihara/projeto_carros.git
    ```
-
-2. Acesse a pasta:
-
+2. Entre na pasta:
    ```bash
    cd projeto_carros
    ```
+3. Abra o arquivo `index.html` no navegador.
 
-3. Abra o arquivo `index.html` em seu navegador.
-
-Não é necessário instalar dependências para executar uma página estática básica em HTML e CSS.
+Não é necessário instalar dependências para executar a página estática.
 
 ## 🎯 Objetivo de aprendizagem
 
-Este projeto tem como objetivo praticar conceitos fundamentais do desenvolvimento web, incluindo:
-
-- Estruturação de páginas com HTML.
-- Estilização e organização de layouts com CSS.
-- Aplicação de fontes e recursos visuais.
-- Organização de arquivos e diretórios.
-- Utilização do GitHub para versionamento e apresentação de projetos.
+Praticar estruturação com HTML, estilização com CSS, organização de arquivos e publicação de projetos no GitHub.
 
 ## 👨‍💻 Autor
 
